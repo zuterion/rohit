@@ -1,0 +1,39 @@
+#a1{
+    background-image: linear-gradient(90deg,red,blue);
+    text-align: center;
+
+}
+#l1{
+    color: white;
+    font-weight: bold;
+    font-family: 'Sofia';font-size: 22px;
+    font-size: 50px;
+}
+#l2{
+    color: white;
+    font-weight: bold;
+    font-family: 'Sofia';font-size: 22px;
+    font-size: 50px;
+}
+#t1{
+    background-image: linear-gradient(90deg,red,blue);
+    border-radius: 8px;
+    border-color: ghostwhite;
+    font-family: sofia;
+    font-size: 20px;
+    color: white;
+}
+#b1{
+    background-color: green;
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    font-size: small;
+}
+#b1:hover{
+    background-color: red;
+    cursor: pointer;
+}
+/* #hb1{
+    background-image: url(image/pic.webp);
+} */
